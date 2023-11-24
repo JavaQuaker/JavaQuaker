@@ -23,7 +23,7 @@ Java - developer
 
 
 ### Socials
-<a href="![Telegramm](https://img.shields.io/badge/Telegramm-%23026AA7.svg?style=for-the-badge&logo=Telegramm&logoColor=white)"> <picture> </a>
+<a href="@Alexey_Berezovskiy">![Telegramm](https://img.shields.io/badge/Telegramm-%23026AA7.svg?style=for-the-badge&logo=Telegramm&logoColor=white)</a>
 <p align="left"> <a href="https://www.github.com/JavaQuaker" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
