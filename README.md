@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Hi 👋 My name is Alexey
 =======================
 
@@ -30,16 +30,9 @@ Java - developer
 
 <a href="https://github.com/JavaQuaker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaQuaker&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+<b>Top Repositories</b>
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/r"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
-<!--
-**JavaQuaker/JavaQuaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
