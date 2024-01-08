@@ -37,4 +37,6 @@ Java - developer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-![](https://visitcount.itsvg.in/api?id=Alexey&label=Profile%20Views&icon=5&pretty=false)(https://visitcount.itsvg.in)
+
+### 
+[![](https://visitcount.itsvg.in/api?id=JavaQuaker&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
